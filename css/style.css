@@ -1,0 +1,72 @@
+.pel1, .pel2, .pel3, .pel4, .pel5, .pel6{
+	background-size: 160px 200px;
+	width: 160px;
+	height: 200px;
+	background-repeat: no-repeat;
+}
+
+.pel1{
+	background-image: url(../img/imagen1.jpg);
+}
+
+.pel2{
+	background-image: url(../img/imagen2.jpg);
+}
+
+.pel3{
+	background-image: url(../img/imagen3.jpg);
+}
+
+.pel4{
+	background-image: url(../img/imagen4.jpg);
+}
+
+.pel5{
+	background-image: url(../img/imagen5.jpg);
+}
+
+.pel6{
+	background-image: url(../img/imagen6.jpg);
+}
+.orange{
+	background-color: #DFB636;
+	margin: 0px;
+	width: 100%;
+	padding: 20px;
+}
+.pel10, .pel7, .pel8, .pel9{
+	background-size: 240px 200px;
+	width: 240px;
+	height: 200px;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.pel10{
+	background-image: url(../img/imagen6.jpg);
+}
+.pel7{
+	background-image: url(../img/imagen7.jpg);
+}
+.pel8{
+	background-image: url(../img/imagen8.jpg);
+}
+.pel9{
+	background-image: url(../img/imagen9.jpg);
+}
+.bcggray{
+	width: 100%;
+	background-color: #F3F3F3;
+}
+
+.txt{
+	margin-top:40px;
+	margin-left: 80px; 
+}
+
+.psm{
+	margin-top: 0px;
+}
+.pcmb{
+	margin-bottom: 50px;
+}
